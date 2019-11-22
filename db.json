@@ -3,23 +3,13 @@
     {
     "id": 1,
     "name": "Vegetable Dim Sum",
-    "ingredients": "1/2 pound firm tofu
-1/2 cup coarsely grated carrots
-1/2 cup shredded Napa cabbage
-2 tablespoons finely chopped red pepper
-2 tablespoons finely chopped scallions
-2 teaspoons finely minced fresh ginger
-1 tablespoon chopped cilantro leaves
-1 tablespoon soy sauce
-1 tablespoon hoisin sauce
-2 teaspoons sesame oil
-1 egg, lightly beaten
-1 teaspoon kosher salt
-1/4 teaspoon freshly ground black pepper
-Bowl of water, plus additional water for steamer
-35 to 40 small wonton wrappers
-Non-stick vegetable spray, for the steamer
-",
+    "ingredients": ["1/2 pound firm tofu",
+                    "1/2 cup coarsely grated carrots",
+                    "1/2 cup shredded Napa cabbage",
+                    "2 tablespoons finely chopped red pepper",
+                    "2 tablespoons finely chopped scallions",
+                    "2 teaspoons finely minced fresh ginger",
+                    "1 tablespoon chopped cilantro leaves"],
     "instructions": "Recipe Instructions"
   },
   {
