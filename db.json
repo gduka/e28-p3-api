@@ -3,7 +3,8 @@
     {
     "id": 1,
     "name": "Vegetable Dim Sum",
-    "ingredients": [“1/2 pound firm tofu”,
+    "ingredients": [
+      “1/2 pound firm tofu”,
 “1/2 cup coarsely grated carrots”,
 “1/2 cup shredded Napa cabbage”,
 “2 tablespoons finely chopped red pepper”,
@@ -17,7 +18,8 @@
 “1 teaspoon salt”,
 “1/4 teaspoon black pepper”,
 “35 to 40 small wonton wrappers”,
-“Non-stick vegetable spray, for the steamer”],
+“Non-stick vegetable spray, for the steamer”
+  ],
  "instructions": “Instructions"
   },
   {
