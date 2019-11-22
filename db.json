@@ -3,27 +3,32 @@
     {
     "id": 1,
     "name": "Vegetable Dim Sum",
-    "description": "Recipe Description"
+    "ingredients": "Recipe Ingredients",
+    "instructions": "Recipe Instructions",
   },
   {
     "id": 2,
     "name": "Blueberry Pancakes",
-    "description": "Recipe Description"
+    "ingredients": "Recipe Ingredients",
+    "instructions": "Recipe Instructions",
   },
   {
     "id": 3,
     "name": "Lemon Pasta",
-    "description": "Recipe Description"
+    "ingredients": "Recipe Ingredients",
+    "instructions": "Recipe Instructions",
   },
   {
     "id": 4,
     "name": "Spinach Dip",
-    "description": "Recipe Description"
+    "ingredients": "Recipe Ingredients",
+    "instructions": "Recipe Instructions",
   },
   {
     "id": 5,
     "name": "Blackberry Popsicles",
-    "description": "Recipe Description"
+    "ingredients": "Recipe Ingredients",
+    "instructions": "Recipe Instructions",
   }
   ],
 
